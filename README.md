@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Mock Interview Platform
 
 ## Description
@@ -61,3 +62,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Support
 
 Show your support by 🌟 the project!!
+=======
+# MockMate-AI
+MockMate AI :-  AI-Mock-Interviewer
+>>>>>>> 2f5f9ed95c70f5a476dc97a30ab81be09f309889
