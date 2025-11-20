@@ -1,0 +1,1 @@
+ALTER TABLE "userAnswer" ADD COLUMN "questionNumber" integer NOT NULL;

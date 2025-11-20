@@ -1,0 +1,1 @@
+ALTER TABLE "userAnswer" ALTER COLUMN "questionNumber" DROP NOT NULL;
